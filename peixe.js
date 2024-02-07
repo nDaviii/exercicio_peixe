@@ -1,3 +1,4 @@
+//faz a pre config dos comandos da biblioteca Phaser
 var config = {
     type: Phaser.AUTO,
     width: 800,
@@ -17,6 +18,7 @@ var game = new Phaser.Game(config);
 //cria a variável caranguejo
 var caranguejo;
 
+//faz o preload das imagens identificando a localização
 function preload() {
     this.load.image('mar', 'assets/bg_azul-claro.png');
 
@@ -30,6 +32,7 @@ function preload() {
 
 }
 
+//adiciona as imagens e define o tamanho
 function create() {
     this.add.image(400, 300, 'mar');
 
@@ -47,6 +50,7 @@ function create() {
 
     caranguejo = this.add.image(400, 300, 'caranguejo');
 
+    //muda a orientação do caranguejo
     caranguejo.setFlip(true, false);
 
  
@@ -54,6 +58,7 @@ function create() {
 
 }
 
+//define a movimentação do caranguejo pelo cursor
 function update() {
     caranguejo.x = this.input.x;
     caranguejo.y = this.input.y;
@@ -61,5 +66,6 @@ function update() {
    
 }
 
+//resposta à pergunta do autoestudo
 var resposta = "Eu já tinha programado antes, mas há muito tempo atrás. Acho que a última vez que eu tinha realmente trabalhado em um código foi no início de 2022. E ainda, era um código básico de calculadora no javascript, se eu não me engano. Então, foi uma experiência muito legal retomar alguns conceitos de lógica de programação e rever algumas partes de HTML, CSS e Javascript!";
 console.log(resposta);
