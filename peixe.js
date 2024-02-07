@@ -66,6 +66,3 @@ function update() {
    
 }
 
-//resposta à pergunta do autoestudo
-var resposta = "Eu já tinha programado antes, mas há muito tempo atrás. Acho que a última vez que eu tinha realmente trabalhado em um código foi no início de 2022. E ainda, era um código básico de calculadora no javascript, se eu não me engano. Então, foi uma experiência muito legal retomar alguns conceitos de lógica de programação e rever algumas partes de HTML, CSS e Javascript!";
-console.log(resposta);
