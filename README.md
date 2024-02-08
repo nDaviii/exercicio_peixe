@@ -18,7 +18,7 @@
 
 O projeto presente se configura em um jogo desenvolvido com base no material de autoestudo proposto no ano de fundamentos do curso de Engenharia da Computação pelo Instituto de Tecnologia e Liderança, Inteli. 
 
-A dinâmica e as mecânicas do jogo consistem na movimentação de um caranguejo pela tela, conforme o controle do cursor do mouse, em um cenário de mar com elementos estáticos.
+A dinâmica e as mecânicas do jogo consistem na movimentação de um caranguejo pela tela, conforme o controle do cursor do mouse, em um cenário de mar com elementos estáticos. Além disso, a resposta à pergunta direcionada nas instruções se mostra no terminal, conforme orientado.
 
 
 ## 📁 Estrutura de pastas
