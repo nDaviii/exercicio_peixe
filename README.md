@@ -36,7 +36,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 - <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto e o jogo (o mesmo que você está lendo agora).
 
 ## 🔧 Como executar o código
-1. Clone o repositório
-2. Acesse o repositório
-3. Abra o arquivo "index.html"
-4. Divirta-se! :)
+1. Clone o repositório;
+2. Acesse o repositório;
+3. Abra o arquivo "index.html";
+4. <b>Divirta-se!</b> :)
