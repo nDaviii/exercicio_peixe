@@ -16,7 +16,9 @@
 
 ## 📜 Descrição
 
-O projeto presente se configura em um jogo desenvolvido com base no material de autoestudo proposto. A dinâmica e as mecânicas do jogo consistem na movimentação de um caranguejo pela tela, conforme o controle do cursor do mouse, em um cenário de mar com elementos estáticos.
+O projeto presente se configura em um jogo desenvolvido com base no material de autoestudo proposto no ano de fundamentos do curso de Engenharia da Computação pelo Instituto de Tecnologia e Liderança, Inteli. 
+
+A dinâmica e as mecânicas do jogo consistem na movimentação de um caranguejo pela tela, conforme o controle do cursor do mouse, em um cenário de mar com elementos estáticos.
 
 
 ## 📁 Estrutura de pastas
@@ -34,3 +36,7 @@ Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 - <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto e o jogo (o mesmo que você está lendo agora).
 
 ## 🔧 Como executar o código
+1. Clone o repositório
+2. Acesse o repositório
+3. Abra o arquivo "index.html"
+4. Divirta-se! :)
